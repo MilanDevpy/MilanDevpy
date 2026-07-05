@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Godot.
 - 📚 I know python (discord.py)
 - 📫 You can contact with my discord : vacarme_emporte.
+- ༼;´༎ຶ ۝ ༎ຶ༽ Learning ASM
 
 
 <!---
