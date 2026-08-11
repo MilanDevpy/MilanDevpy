@@ -7,19 +7,14 @@ Hey, I m MilanDevPy
 MilanDevpy/MilanDevpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀  
+⠀⠀⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇  
+⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃  
+⠀⠀⠀⠀⢠⣿⣿⣿⣇⠀⠀⢀⣾⣿⣿⣿⠀  
+⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡟⠀  
+⠀⠀⢰⡿⠉⠀⡜⣿⣿⣿⡿⠿⢿⣿⣿⠃⠀  
+⠒⠒⠸⣿⣄⡘⣃⣿⣿⡟⢰⠃⠀⢹⣿⡇⠀  
+⠚⠉⠀⠈⠻⣿⣿⣿⣿⣿⣮⣤⣤⣿⡟⠁⠀  
+⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠁⠀⠒⠤  
 
-(_＼ヽ\n
-　 ＼＼ .Λ＿Λ.
-　　 ＼(　ˇωˇ)　
-　　　 >　⌒ヽ
-　　　/ 　 へ＼
-　　 /　　/　＼＼
-　　 ﾚ　ノ　　 ヽ_つ
-　　/　/
-　 /　/|
-　(　(ヽ
-　|　|、＼
-　| 丿 ＼ ⌒)
-　| |　　) /
-`ノ ) 　 Lﾉ
-(_／⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀⠀  
