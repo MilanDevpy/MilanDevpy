@@ -1,9 +1,7 @@
-- 👋 Hello, I m MilanDevPy (or vacarme_emporte). I love the cookies. 
-- 🌱 I’m currently learning Godot.
-- 📚 I know python (discord.py)
-- 📫 You can contact with my discord : vacarme_emporte.
-- ༼;´༎ຶ ۝ ༎ຶ༽ Learning ASM and Rust at the same time
+Hey, I m MilanDevPy 
 
+ ༼;´༎ຶ ۝ ༎ຶ༽ Learning ASM and Rust at the same time
+(coding with Godot and Python, i can code for lua but it's... ew)
 
 <!---
 MilanDevpy/MilanDevpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
