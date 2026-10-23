@@ -1,12 +1,13 @@
 Hey, I m MilanDevPy 
 
- ༼;´༎ຶ ۝ ༎ຶ༽ Learning ASM and Rust at the same time
+I love to dev useless and stupids simulations,  
+Nearly all of my projects are in private bc of shame x)  
+
+
+Coding mainly, but not only, in Rust (it's peak) and Python (but I can dev in GDScript, Lua and ASM 6502 too)
+
 (coding with Godot and Python, i can code with lua but it's... ew)
-_Cellular Automata are just too fun x)_
-<!---
-MilanDevpy/MilanDevpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇  
 ⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃  
